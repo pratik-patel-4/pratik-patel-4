@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full stack Developer with more than 4.5 Years of experience. I have experience in Core Java, Spring, Hibernate, REST APIs, and other Java Frameworks. Also, for the front end, I have worked in JSP, JSF, Angular, and React. I have used databases like MSSQL, Oracle, MySQL, DB2, etc.  <br><br>I am looking to collaborate on any project, which contains the above technologies, also I am a quick learner. So, if there is any new technology, I am happy to learn it.<br><br>
+I am a Full stack Developer with more than 5.5 Years of experience. I have experience in Core Java, Spring, Hibernate, REST APIs, and other Java Frameworks. Also, for the front end, I have worked in JSP, JSF, Angular, and React. I have used databases like MSSQL, Oracle, MySQL, DB2, etc.  <br><br>I am looking to collaborate on any project, which contains the above technologies, also I am a quick learner. So, if there is any new technology, I am happy to learn it.<br><br>
 
 
 # 💻 Tech Stack:
