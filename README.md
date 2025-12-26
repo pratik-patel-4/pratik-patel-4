@@ -1,26 +1,63 @@
-# 💫 About Me:
-I am a Full stack Developer with more than 5.5 Years of experience. I have experience in Core Java, Spring, Hibernate, REST APIs, and other Java Frameworks. Also, for the front end, I have worked in JSP, JSF, Angular, and React. I have used databases like MSSQL, Oracle, MySQL, DB2, etc.  <br><br>I am looking to collaborate on any project, which contains the above technologies, also I am a quick learner. So, if there is any new technology, I am happy to learn it.<br><br>
+# Hi, I'm Pratik Patel 👋
 
+🚀 Senior Software Developer with 6+ years of experience building scalable, enterprise-grade applications.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pratik-patel-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pratik-patel-4&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik-patel-4&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pratik-patel-4&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pratik-patel-4&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+I specialize in **Java, Spring Boot, backend systems, data migration, and performance optimization**.  
+Currently working on large-scale products in **Supply Chain Management, Asset Management, and Enterprise Systems**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pratik-patel-4&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🧠 About Me
+- 💼 Software Developer with experience at **IBM, Oracle, and TCS**
+- ⚙️ Strong background in **backend development & system optimization**
+- 📈 Passionate about improving performance, scalability, and reliability
+- 🌍 Based in Gandhinagar, Gujarat, India
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java, JavaScript, PL/SQL, HTML, CSS
+
+**Frameworks & Libraries**
+- Spring Boot, Hibernate, REST APIs
+- React-based Graphite Framework
+
+**Databases**
+- Oracle DB, MySQL, PostgreSQL, IBM DB2, SQL Server
+
+**Tools & Platforms**
+- Git, Maven, Stripe API
+- Linux, CI/CD basics
+
+---
+
+## 📌 Featured Projects
+🔹 **Stripe Integration Practice**  
+Backend payment integration using Java & Spring Boot  
+👉 Secure API handling, payment intents, test transactions
+
+🔹 **Stock Management System**  
+Inventory & order management system  
+👉 SQL optimization, CRUD, reporting
+
+🔹 **Geo-processing in Open GIS**  
+Spatial data processing system  
+👉 Buffer, intersection, navigation & decision support
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-patel-4&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/patelpratikn
+- 🌐 Portfolio: https://pratik-patel-4.github.io/
+- 📧 Email: patelpratik99979@gmail.com
+
+---
+
+✨ *Always learning. Always improving. Building systems that scale.*
