@@ -1,55 +1,71 @@
 # Hi, I'm Pratik Patel 👋
 
-🚀 Senior Software Developer with 6+ years of experience building scalable, enterprise-grade applications.
+Senior Software Developer with **6+ years of experience** building **enterprise-grade backend systems** using Java and related technologies.
 
-I specialize in **Java, Spring Boot, backend systems, data migration, and performance optimization**.  
-Currently working on large-scale products in **Supply Chain Management, Asset Management, and Enterprise Systems**.
+I specialize in **scalable application development, performance optimization, data migration, and backend integrations**.  
+I’ve worked on large, production systems across **asset management, supply chain, and enterprise platforms**.
 
 ---
 
 ## 🧠 About Me
 - 💼 Software Developer with experience at **IBM, Oracle, and TCS**
-- ⚙️ Strong background in **backend development & system optimization**
-- 📈 Passionate about improving performance, scalability, and reliability
-- 🌍 Based in Gandhinagar, Gujarat, India
+- ⚙️ Backend-focused engineer with strong problem-solving skills
+- 🚀 Passionate about building reliable, maintainable, and scalable systems
+- 📍 Based in Gandhinagar, Gujarat, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-**Languages**
+### Languages
 - Java, JavaScript, PL/SQL, HTML, CSS
 
-**Frameworks & Libraries**
-- Spring Boot, Hibernate, REST APIs
+### Frameworks & Technologies
+- Spring Boot, Hibernate
+- RESTful APIs
 - React-based Graphite Framework
 
-**Databases**
-- Oracle DB, MySQL, PostgreSQL, IBM DB2, SQL Server
+### Databases
+- Oracle DB
+- MySQL
+- PostgreSQL
+- IBM DB2
+- SQL Server
 
-**Tools & Platforms**
-- Git, Maven, Stripe API
-- Linux, CI/CD basics
+### Tools & Platforms
+- Git & GitHub
+- Maven
+- Stripe API
+- Linux environments
+- CI/CD basics
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Stripe Integration Practice**  
-Backend payment integration using Java & Spring Boot  
-👉 Secure API handling, payment intents, test transactions
 
-🔹 **Stock Management System**  
-Inventory & order management system  
-👉 SQL optimization, CRUD, reporting
+### 🔹 Stripe Payment Integration (Java)
+- Backend payment integration using **Spring Boot & Maven**
+- Implemented checkout flows and payment intents
+- Secure API key handling via environment variables
+- Stripe sandbox testing and validation
 
-🔹 **Geo-processing in Open GIS**  
-Spatial data processing system  
-👉 Buffer, intersection, navigation & decision support
+### 🔹 Stock Management System
+- Inventory, orders, and sales tracking system
+- Optimized SQL queries and CRUD operations
+- Designed for scalability and reporting
+
+### 🔹 Geo-processing in Open GIS
+- Spatial data processing platform
+- Implemented buffer, intersection, and difference operations
+- Navigation support for decision-making systems
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratik-patel-4&show_icons=true&theme=default)
+## 📈 Professional Focus
+- Backend system design & optimization
+- Enterprise application development
+- Performance tuning & bulk data processing
+- Reliable, production-ready code
 
 ---
 
@@ -60,4 +76,4 @@ Spatial data processing system
 
 ---
 
-✨ *Always learning. Always improving. Building systems that scale.*
+✨ *Always learning. Always improving. Focused on building systems that scale.*
