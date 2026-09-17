@@ -1,6 +1,6 @@
 # Hi, I'm Pratik Patel 👋
 
-Senior Software Developer with **6+ years of experience** building **enterprise-grade backend systems** using Java and related technologies.
+Senior Software Developer with **8+ years of experience** building **enterprise-grade backend systems** using Java and related technologies.
 
 I specialize in **scalable application development, performance optimization, data migration, and backend integrations**.  
 I’ve worked on large, production systems across **asset management, supply chain, and enterprise platforms**.
